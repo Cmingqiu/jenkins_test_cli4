@@ -2,7 +2,7 @@
   <div id="app">
     <HelloWorld msg="Welcome to Your Vue.js App  哈哈哈哈" />
 
-    <h1 style="color:red;">Hello Jenkins!!!</h1>
+    <h1 style="color:red;font-weight:bold;">Hello Jenkins!!!</h1>
   </div>
 </template>
 
