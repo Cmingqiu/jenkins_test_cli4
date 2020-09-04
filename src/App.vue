@@ -1,6 +1,8 @@
 <template>
   <div id="app">
     <HelloWorld msg="Welcome to Your Vue.js App  哈哈哈哈" />
+
+    <h1>Jenkins</h1>
   </div>
 </template>
 
